@@ -462,11 +462,7 @@ footer > ul > li {
     line-height: 1;
   }
 
-  .video__footage__container {
-    display: flex;
-    flex-direction: column;
-  }
-  .video__footage__text {
+  .paragraph__text {
     width: 60%;
   }
 
