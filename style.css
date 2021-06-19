@@ -128,10 +128,11 @@ section {
 .hero__image {
   position: absolute;
   width: 100%;
-  right: auto;
+  top: 8%;
   left: auto;
+  right: auto;
   z-index: 2;
-  border-radius: 6px;
+  border-radius: 10px;
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 
@@ -393,6 +394,10 @@ footer > ul > li {
     display: flex;
     justify-content: space-between;
     align-items: center;
+  }
+
+  .restaurant__list__images__container {
+    width: 100%;
   }
 
   .restaurant__list__row_1 {
